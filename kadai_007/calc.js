@@ -13,5 +13,5 @@ else if ((num % 5) === 0) {
 }
 
 else {
-  console.log('変数のnum');
+  console.log(num);
 }
